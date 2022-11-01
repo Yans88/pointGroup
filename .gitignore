@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+
+# environment configuration
+.env
+package-lock.json
+database.db
+public/assets
+public/images
+public/profile_picture
+
+/.idea
+/.vscode
+.idea
+*.iws
+*.iml
+*.ipr
